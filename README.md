@@ -1,7 +1,8 @@
 # Tarragon
 ![Logo - Tarragon](./tarragon1.gif)
 
-**TODO: Add description**
+**Elixir Micro Framework based upon PLug, Cowboy, Ecto**
+*Not for production usage*
 
 ## Installation
 
