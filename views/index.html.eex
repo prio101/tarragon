@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Tarragon</title>
+    <style>
+      <%= EEx.eval_file("static/css/index.css.eex")%>
+    </style> 
+  </head>
+
+  <body>
+    <section>
+      <h3 class="title">Tarragon</h3>
+      <sup>" Ladden Shallow carrying coconut " - Monty Python and the holy grail</sup>
+    
+      <p class="lead">Small framework to demonstrate Power of Plug, Cowboy, Ecto</p>
+      <p class="about">Link about code can be found over: 
+        <a href="https://github.com/prio101/tarragon">Github Link</a>
+      </p>
+      <sub>Do not use for production.</sub>
+    </section>
+  </body>
+</html>

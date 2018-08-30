@@ -5,7 +5,10 @@ defmodule Router.MainRouter do
   plug :dispatch
 
   get "/" do
-    send_resp(conn, 200, "hello")
+    page = EEx.eval_file("views/index.html.eex")
+    conn
+    |> put_resp_content_type("text/html")
+    |> send_resp(200, page)
   end
 
   forward "/sites", to: Router.SitesRouter 
