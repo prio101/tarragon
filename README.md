@@ -1,4 +1,5 @@
 # Tarragon
+![Logo - Tarragon](./tarragon1.gif)
 
 **TODO: Add description**
 
