@@ -1,7 +1,8 @@
 # Tarragon
 ![Logo - Tarragon](./tarragon1.gif)
 
-**Elixir Micro Framework based upon PLug, Cowboy, Ecto**
+**Elixir app based upon PLug, Cowboy**
+
 *Not for production usage*
 
 ## Installation

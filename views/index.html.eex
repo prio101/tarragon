@@ -11,7 +11,7 @@
       <h3 class="title">Tarragon</h3>
       <sup>" Ladden Shallow carrying coconut " - Monty Python and the holy grail</sup>
     
-      <p class="lead">Small framework to demonstrate Power of Plug, Cowboy, Ecto</p>
+      <p class="lead">Small app to demonstrate Power of Plug, Cowboy</p>
       <p class="about">Link about code can be found over: 
         <a href="https://github.com/prio101/tarragon">Github Link</a>
       </p>
